@@ -5,7 +5,7 @@ module.exports = {
   introduction: `I explain with words and code.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: `https://twitter.com/GarimaS93930012`, // Your Twitter account
+    twitter: `https://twitter.com/GarimaS95581152`, // Your Twitter account
     github: `https://github.com/garimasingh128`, // Your GitHub account
     medium: `https://medium.com/@garingh128`, // Your Medium account
     facebook: `https://www.facebook.com/garima1208`, // Your Facebook account
