@@ -1,5 +1,5 @@
 ﻿---
-title: 'Project: Linear regression using pytorch'
+title: 'What is Gradient Descent Algorithm and its working.'
 date: 2020-07-15 16:21:13
 category: 'development'
 draft: false
