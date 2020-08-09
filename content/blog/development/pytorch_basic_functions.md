@@ -1,20 +1,8 @@
-
-
 ---
-title: Getting started with 🧠 Pytorch: Basic functions 💬
-shortTitle: PyTorch Basics- 5 basic functions 🤠
-path: /articles/machine-learning/getting-started-with-🧠-pytorch:-basic-functions-💬
-date: Aug 10, 2020
-topic: Machine Learning
-time: 4 min read
-intro: # Getting started with 🧠Pytorch: Basic functions 💬
-imgUrl: https://ibb.co/h2Pz0Bg
-author: Garima Singh
-bio: 👩‍🎓 Junior | 💻 Aspiring Software Developer | 📲Seeking Internships for CSE | Open-Source Mentor 💜 | DevRel 🌤️
-authorPhoto: https://media-exp1.licdn.com/dms/image/C4D03AQE511qjS-lHVw/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=oQhyzJlEVa0DxMnGdLhq2OHJWBBKWCG5tozNPSMTwCQ
-keywords: pytorch, torch, tensor, random, arrange, machine learning
-tags: pytorch, pytorch install, pytorch tutorial, pytorch vs tensorflow, pytorch dataloader, pytorch lstm, pytorch github
-articleNumber: IDK
+title: ' Getting started with 🧠Pytorch: Basic functions 💬'
+date: 2020-07-10 16:21:13
+category: 'development'
+draft: false
 ---
 
 # Getting started with 🧠Pytorch: Basic functions 💬
