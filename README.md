@@ -20,9 +20,12 @@
 
 
 
-<img src="ss.png" height="250px">
+<div align="center">
 
-[Check out this live here.]([https://garimasingh.netlify.app/](https://garimasingh.netlify.app/))
+<img src="ss.png" height="350px">
+
+</div>
+[Check out this live here.](https://garimasingh.netlify.app/)
 
 In this template...
 
